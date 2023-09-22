@@ -1,0 +1,194 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.box-header {
+    margin-top: 47px;
+    margin-left: 42px;
+
+}
+
+.link-header {
+    margin-right: 36px;
+    width: 83px;
+    line-height: normal;
+    letter-spacing: 0.875px;
+    font-size: 14px;
+    font-style: normal;
+    color: #17233D;
+    cursor: pointer;
+
+}
+
+link-header:hover {
+    opacity: .5;
+}
+
+link-header:active {
+    opacity: .9;
+}
+
+.button-header {
+    width: 124px;
+    height: 51px;
+    flex-shrink: 0;
+    border: none;
+    background: #6FBF44;
+    line-height: normal;
+    letter-spacing: 1px;
+    font-size: 16px;
+    font-style: normal;
+    color: #FFF;
+    cursor: pointer;
+
+}
+
+button:hover {
+    opacity: .3;
+}
+
+button:active {
+    opacity: .6;
+}
+
+a:hover {
+    opacity: .4;
+}
+
+a:active {
+    color: red;
+
+}
+
+.logo-positive {
+    display: inline-block;
+    margin-top: 163px;
+    margin-left: 121px;
+
+}
+
+section {
+    margin-left: 85px;
+    display: inline-block;
+
+}
+
+h1 {
+    margin-bottom: 47px;
+    width: 582px;
+    line-height: 82px;
+    letter-spacing: 0.596px;
+    font-size: 62px;
+    font-style: normal;
+    color: #161A49;
+}
+
+p {
+    margin-bottom: 55px;
+    text-align: center;
+    width: 493px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    font-size: 18px;
+    font-style: normal;
+    color: #4B505A;
+}
+
+.link-section {
+    line-height: normal;
+    letter-spacing: 1px;
+    font-size: 18px;
+    font-style: normal;
+    color: #6FBF44;
+    cursor: pointer;
+
+}
+
+link-section:hover {
+    opacity: .10;
+
+}
+
+link-section:active {
+    opacity: .4;
+}
+
+@media screen and (max-width: 800px) {
+
+    .logo-positive {
+        margin: 490px 39px 22px;
+        display: block;
+        width: 312px;
+        height: 288px;
+        position: absolute;
+
+
+    }
+
+
+    .link-header {
+        display: none;
+    }
+
+    .button-header {
+        width: 91px;
+        height: 31px;
+        margin-top: 17px;
+        margin-right: 15px;
+        margin-left: 284px;
+        width: 91px;
+        height: 31px;
+        flex-shrink: 0;
+        width: 91px;
+        height: 31px;
+        flex-shrink: 0;
+        border-radius: 6px;
+        border: 1px solid #4CB538;
+        background: #6FBF44
+    }
+
+    section {
+        display: block;
+        position: absolute;
+        width: 100%;
+        height: 50%;
+        margin: 0;
+        padding: 0;
+    }
+
+    h1 {
+        width: 278px;
+        line-height: 30px;
+        letter-spacing: 0.596px;
+        font-size: 30px;
+        font-style: normal;
+        color: #161A49;
+        text-align: center;
+        margin: 83px 55px 0 57px;
+    }
+
+    p {
+        width: 304px;
+        line-height: 33px;
+        letter-spacing: 0.5px;
+        font-size: 18px;
+        font-style: normal;
+        color: #4B505A;
+        text-align: center;
+        margin: 30px 43px 43px;
+
+    }
+
+    .link-section {
+        margin-left: 139px;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        letter-spacing: 1px;
+    }
+}
