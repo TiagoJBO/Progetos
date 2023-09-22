@@ -1,4 +1,4 @@
-<h1> **Wedi** Coverage</h1>
+<h1> Wedi Coverage</h1>
 <br>
 <br>
 <h2> Esse e um projeto  que eu aprendi no <a href="https://rodolfomori.com.br/devclub"> DevClub </a> </h2> utilizando:
