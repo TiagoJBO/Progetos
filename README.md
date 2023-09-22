@@ -6,5 +6,5 @@
 <br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" arl="logo-css"/>
 <p> Segue imagens do projeto porjeto</p>
-<img src="https://github.com/TiagoJBO/Progetos/blob/main/img/Projeto%20Coverage.PC.png?raw=true" arl="img-pc"/> <img src="" arl=""
+<img src="https://github.com/TiagoJBO/Progetos/blob/main/img/Projeto%20Coverage.PC.png?raw=true" arl="img-pc"/> <img src="https://github.com/TiagoJBO/Progetos/blob/main/img/Progeto%20Wedi%20converage.CEL.png?raw=true" arl="img-cel"/>
 
