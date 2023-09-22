@@ -8,5 +8,5 @@
 
 <p>Segue imagens conforme projeto criado com responsividade </p>
 <img src="https://github.com/TiagoJBO/Progetos/blob/main/img/Progeto%20Wedi%20converage.CEL.png?raw=true" arl="respon-img"/>
-<img
+<img src="https://github.com/TiagoJBO/Progetos/blob/main/img/Projeto%20Coverage.PC.png?raw=true" arl="pc-img"/>
 
